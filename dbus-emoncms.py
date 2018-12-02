@@ -22,7 +22,7 @@ import urllib2
 #-----------------------------------------------------------------------------------------------------#
 # Domain you want to post to: localhost would be an emoncms installation on your own laptop
 # this could be changed to emoncms.org to post to emoncms.org or your own server
-server = "198.46.196.157"
+server = "localhost"
 
 
 # Location of emoncms in your server, the standard setup is to place it in a folder called emoncms
@@ -30,7 +30,7 @@ server = "198.46.196.157"
 emoncmspath = "emoncms"
 
 # ------------- Write apikey of emoncms account -------------
-apikey = "d1118332eb96a799779b4f922c1ac986"
+apikey = "add you api key"
 
 # ------------- Node id youd like the emontx to appear as -------------
 nodeid = 1
